@@ -37,7 +37,7 @@ This end‑to‑end workflow demonstrates real‑world analytics skills across d
 <h2>🖼️ Screenshots</h2>
  Dashboard Overview
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/Rupa0807/Customer_Shopping_Behaviour_Analysis/images/dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Rupa0807/Customer_Shopping_Behaviour_Analysis/tree/main/images/dashboard.png)
 
 
 
