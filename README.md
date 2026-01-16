@@ -35,9 +35,8 @@ This end‑to‑end workflow demonstrates real‑world analytics skills across d
 <li>GitHub — Version control and project documentation</li>
 
 <h2>🖼️ Screenshots</h2>
- Dashboard Overview
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/Rupa0807/Customer_Shopping_Behaviour_Analysis/images/dashboard.png)
+<img src="images/dashboard.png" alt="Customer Shopping Dashboard" width="200"/>
 
 
 
