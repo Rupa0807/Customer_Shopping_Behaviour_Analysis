@@ -36,7 +36,7 @@ This end‑to‑end workflow demonstrates real‑world analytics skills across d
 
 <h2>🖼️ Screenshots</h2>
 
-<img src="images/Dashboard.png.png" alt="Customer Shopping Dashboard" width="200"/>
+<img src="images/Dashboard.png" alt="Customer Shopping Dashboard" width="200"/>
 
 
 
